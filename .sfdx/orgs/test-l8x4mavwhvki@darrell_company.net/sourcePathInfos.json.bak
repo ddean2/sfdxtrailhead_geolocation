@@ -50,24 +50,24 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1511026723335,
-            "changeTime": 1511026723335,
+            "modifiedTime": 1511026396603,
+            "changeTime": 1511026396603,
             "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
         "/home/darrell/dev/SFDX/geolocation",
         {
+            "state": "u",
             "sourcePath": "/home/darrell/dev/SFDX/geolocation",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1511025129428,
             "changeTime": 1511025129428,
-            "contentHash": "5d1ba67a05d9fb577dcd0d085dc7ad2330ae4563",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "contentHash": "5d1ba67a05d9fb577dcd0d085dc7ad2330ae4563"
         }
     ],
     [
@@ -333,14 +333,14 @@
     [
         "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 207,
             "modifiedTime": 1511026587581,
             "changeTime": 1511026587589,
-            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7"
         }
     ],
     [
@@ -440,7 +440,7 @@
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1511027075768,
+            "modifiedTime": 1510808928944,
             "changeTime": 1510808928944,
             "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
             "isMetadataFile": false,
@@ -463,14 +463,14 @@
     [
         "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 342,
+            "modifiedTime": 1510808863178,
+            "changeTime": 1510808863178,
+            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391",
             "isMetadataFile": false,
-            "size": 537,
-            "modifiedTime": 1511026929910,
-            "changeTime": 1511026929922,
-            "contentHash": "b21df8da05290fabebb49441b83de33224087663"
+            "state": "u"
         }
     ],
     [
@@ -502,14 +502,14 @@
     [
         "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1510808904179,
+            "changeTime": 1510808904187,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "size": 396,
-            "modifiedTime": 1511027075752,
-            "changeTime": 1511027075768,
-            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02"
+            "state": "u"
         }
     ],
     [
@@ -801,14 +801,14 @@
     [
         "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1511027300403,
-            "changeTime": 1511026556508,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 4096,
+            "modifiedTime": 1511026556508,
+            "changeTime": 1511026556508,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
         }
     ],
     [
@@ -818,36 +818,36 @@
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 332,
-            "modifiedTime": 1511027166363,
-            "changeTime": 1511027166371,
-            "contentHash": "3f394cf8f65c1b7a9be7f8f14e0a2d582ed67f7f"
+            "size": 261,
+            "modifiedTime": 1511026492134,
+            "changeTime": 1511026492150,
+            "contentHash": "b34fcebfb5dc798f7cf6689df2f96cc92eb6f534"
         }
     ],
     [
         "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1511026396603,
             "changeTime": 1511026396603,
-            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
         }
     ],
     [
         "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 43,
             "modifiedTime": 1511026556504,
             "changeTime": 1511026556508,
-            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe"
         }
     ],
     [
@@ -857,75 +857,36 @@
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 834,
-            "modifiedTime": 1511027300399,
-            "changeTime": 1511027300403,
-            "contentHash": "5c1acac5172e5a41ab9e7148280b54e2d251eda0"
+            "size": 380,
+            "modifiedTime": 1511026533227,
+            "changeTime": 1511026533239,
+            "contentHash": "af8e52d17b24a9d9669a5f8ea4e13b1c9e7faa45"
         }
     ],
     [
         "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1511026396607,
             "changeTime": 1511026396607,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1511026396607,
             "changeTime": 1511026396607,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 4096,
-            "modifiedTime": 1511026814468,
-            "changeTime": 1511026814468,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 101,
-            "modifiedTime": 1511026814464,
-            "changeTime": 1511026814468,
-            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8"
-        }
-    ],
-    [
-        "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/darrell/dev/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1511026723335,
-            "changeTime": 1511026723335,
-            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
